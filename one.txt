@@ -2,6 +2,7 @@ hello how are you
 <<<<<<< HEAD
 peacock is beautiful 
 rabbit is cute 
+<<<<<<< HEAD
 
 
 banglore
@@ -9,3 +10,5 @@ mumbai
 gujarath
 =======
 >>>>>>> parent of 7690b93... 2nd change
+=======
+>>>>>>> parent of 419f684... 3rd change
